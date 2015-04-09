@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "requirejs": "^2.1.15",
-    "route-recognizer": "git://github.com/btford/route-recognizer",
+    "route-recognizer": "git+https://github.com/btford/route-recognizer.git",
     "traceur": "^0.0.72"
   },
   "devDependencies": {
